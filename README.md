@@ -1,7 +1,7 @@
 # Scoreme
 A tool to detect and extract tables from system-generated PDFs
 **PDF Bank Statement Extractor**
-This tool extracts transaction data from bank statement PDFs (like test6.pdf) and saves it to Excel. Perfect for financial analysis or bookkeeping.
+This tool extracts transaction data from bank statement PDFs and saves it to Excel. Perfect for financial analysis or bookkeeping.
 
 **Features**
 
