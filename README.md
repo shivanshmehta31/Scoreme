@@ -1,6 +1,6 @@
 
 
-# PDF Extracter  
+# XcelParse-A-fusion-of-Excel-and-parsing
 
 ```markdown
 # Table Extraction from PDFs to Excel
@@ -50,6 +50,3 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 ## License
 This project is licensed under the MIT License.
 
----
-
-Let me know if you want to tweak anything! 🚀
